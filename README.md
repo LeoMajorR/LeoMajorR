@@ -13,7 +13,7 @@
 👨‍💻  I am passionate about Web Devlopment, Machine Learning, Cyber Security & I enjoy learning new things.
 
 - 🔭 I’m currently working on **Web Development Projects** of **Architechs Club**.
-- 🌱 I’m currently learning **Machine Learning**.
+- 🌱 I’m currently learning **Machine Learning** and getting my hand's dirty with **Competitive Programming**.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about **Python**, C, Java, Machine Learning.
