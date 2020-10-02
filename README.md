@@ -1,12 +1,11 @@
+<img src="./assets/hello.gif" width="150" height="150" />
+
+
 ### Hi there 👋
 
-#### This is Ravi Prakash Singh. Welcome to my GitHub Profile!
-<br>
-<!--
-**LeoMajorR/LeoMajorR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### This is Ravi Prakash Singh. Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
--->
+
 
 ### About Me 🚀
 <hr>
@@ -23,9 +22,6 @@ Here are some ideas to get you started:
 
 
 # Contact Me :
-
-
-
 
 If you want to reach out to me about anything, be it some doubt or just to hangout just ping me.
 
