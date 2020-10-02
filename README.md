@@ -12,8 +12,8 @@
 🎓 I’m an Open-Source enthusiast & a sophmore pursuing my Bachelors in Mathematics And Computing. </br>
 👨‍💻  I am passionate about Web Devlopment, Machine Learning, Cyber Security & I enjoy learning new things.
 
-- 🔭 I’m currently working on Web Development Projects.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working on **Web Development Projects** of **Architechs Club**.
+- 🌱 I’m currently learning **Machine Learning**.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about Python, C, Java, Machine Learning.
