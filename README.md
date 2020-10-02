@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Machine Learning**.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Python.
-- 💬 Ask me about Python, C, Java, Machine Learning.
+- 💬 Ask me about **Python**, C, Java, Machine Learning.
 
 <hr>
 
