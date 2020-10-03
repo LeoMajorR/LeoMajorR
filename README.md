@@ -18,6 +18,7 @@
 - 🤔 I’m looking for help with Django.
 - 💬 Ask me about **Python**, C, Java, Machine Learning.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomajorr&exclude_repo=,leomajorr.github.io)](https://github.com/leomajorr/github-readme-stats)
 <hr>
 
 
@@ -46,6 +47,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <hr>
 
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=leomajorr&show_icons=true&hide_border=true)
-<br />
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=leomajorr&show_icons=true&theme=tokyonight)
+<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leomajorr.leomajorr)
