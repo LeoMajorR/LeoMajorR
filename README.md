@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-##### This is Ravi Prakash Singh. Welcome to my GitHub Profile!
+#### This is Ravi Prakash Singh. Welcome to my GitHub Profile!
 
 
 
@@ -24,7 +24,7 @@
 
 # Contact Me :
 
-If you want to reach out to me about anything, be it some doubt or just to hangout just ping me.
+If you want to reach out to me about anything, be it some doubts, or bugs fixes or any new idea or just anything don't hesitate. I'll be happy to help you in anyway. 😉 
 
 
 <a href="mailto:ssingh.raviprakash@gmail.com">
