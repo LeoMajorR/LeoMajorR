@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomajorr&exclude_repo=,leomajorr.github.io)](https://github.com/leomajorr/github-readme-stats)  
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leomajorr&repo=architechs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leomajorr&repo=architechs)](https://github.com/leomajorr/architechs)
 <hr>
 
 
