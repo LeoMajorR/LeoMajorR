@@ -18,7 +18,9 @@
 - 🤔 I’m looking for help with Django.
 - 💬 Ask me about **Python**, C, Java, Machine Learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomajorr&exclude_repo=,leomajorr.github.io)](https://github.com/leomajorr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomajorr&exclude_repo=,leomajorr.github.io)](https://github.com/leomajorr/github-readme-stats)  
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leomajorr&repo=architechs)
 <hr>
 
 
