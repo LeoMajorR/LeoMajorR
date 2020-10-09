@@ -51,4 +51,9 @@ If you want to reach out to me about anything, be it some doubts, or bugs fixes 
 
 ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=leomajorr&show_icons=true&theme=tokyonight)
 <br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=leomajorr.leomajorr)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=leomajorr.leomajorr) 
+[![Repositories ](https://badges.pufler.dev/repos/leomajorr)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/leomajorr)](https://badges.pufler.dev) 
+[![Commits](https://badges.pufler.dev/commits/monthly/leomajorr)](https://badges.pufler.dev)
+
+
